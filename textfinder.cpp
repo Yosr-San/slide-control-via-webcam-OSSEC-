@@ -39,3 +39,4 @@ void TextFinder::on_exit_pressed()
 {
     exit(0);
 }
+//Pull request
