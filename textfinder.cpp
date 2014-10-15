@@ -39,4 +39,4 @@ void TextFinder::on_exit_pressed()
 {
     exit(0);
 }
-//ahla commit
+//Pull request
